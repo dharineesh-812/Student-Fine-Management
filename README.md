@@ -54,3 +54,8 @@ This project is developed using core Java and Object-Oriented Programming princi
 ---
 
 ## 📂 Project Structure
+
+| Role    | Permissions                        |
+|---------|------------------------------------|
+| Admin   | View all, add/remove fines         |
+| Student | View own fines, pay fines          |
